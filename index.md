@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Ontlametse Sekamoeng
 
-You can use the [editor on GitHub](https://github.com/Ontlametse/19175893.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can access the page using https://github.com/Ontlametse/19175893.github.io
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About
 
-```markdown
-Syntax highlighted code block
+**Name:** Ontlametse Sekamoeng
+**Date of Birth:** 27 March 1999
+**Age:** 23
+**Hobbies:** Reading, Researching and non-fiction documentaries
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I am a Bcom Informatics  student at the university of Pretoria. This course gives me an opportunity to study the application of information systems and computer within organisations which is exactly what I want to learn. System and business analytics are my biggest interest and I believe this is the right way to go about it. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ontlametse/19175893.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
+Email: u19175893@tuks.co.za
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
