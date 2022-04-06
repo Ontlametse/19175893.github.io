@@ -1,6 +1,6 @@
 ## Ontlametse Sekamoeng
 
-You can access the page using https://github.com/Ontlametse/19175893.github.io
+
 
 
 
