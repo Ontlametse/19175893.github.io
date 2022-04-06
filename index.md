@@ -8,9 +8,13 @@
 
 **Name:** Ontlametse Sekamoeng
 
+
 **Date of Birth:** 27 March 1999
 
+
 **Age:** 23
+
+<br/>
 
 **Hobbies:** Reading, Researching and non-fiction documentaries
 
